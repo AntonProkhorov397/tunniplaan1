@@ -24,7 +24,11 @@
     <Compile Include="Anton_Prokhorov_tunniplaan.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="TextFile1.txt" />
+    <Content Include="py.gif" />
+    <Content Include="python.png" />
+    <Content Include="rt.png" />
+    <Content Include="tunnikirjeldus.txt" />
+    <Content Include="ty.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
