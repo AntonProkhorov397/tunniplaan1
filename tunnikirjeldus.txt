@@ -1,15 +1,15 @@
-Multimeedia:Ruum-A218 Gert Pant
-ty.png:Ruum-E07 Oleinik Marina
-R�hma juhataja tund:Ruum-E07 Oleinik Marina
-Inglise keel2:Ruum-B148 �estjakova Elina
-Inglise keel1:Ruum-B138 Poskotinova Olga
-Operatsiooni s�steemide alused:Ruum-A243 Shkarbanova Lury
-Kehaline kasvatus:Ruum-V�imla A Maks�miv Maksim
-Eesti keel2:Ruum-B234 Ojam�e Olesja
-Eesti keel1:Ruum-B226 Peetrim�gi Irina
-Ajalugu inimgeograafia ja inimese �petus eesti keeles:Ruum-B238 Mari Speek
-Kunstiained:Ruum-232 Norkevit� Aleksandra
-Andmebaasis�steemide alused (eesti keeles):Ruum-E10 Merkulova Irina
-Keel ja kirjandus:Ruum-B221 Mihhailova Ljudmila
-Matemaatika:Ruum-B133 Voronova Nade�da
-Suhtlemine ja klienditeenindus:Ruum-B003 Schumann Sirje
+Gert.png:Ruum-A218 Gert Pant Konsultatsioonid-Esmaspäev(15:10 - 15:55)Teisipäev(14:20 - 15:05)Kolmapäev(14:20 - 15:05)
+ty.png:Ruum-E07 Oleinik Marina Konsultatsioonid-Esmaspäev(13:30-14:15)
+Rühm.png:Ruum-E07 Oleinik Marina
+12.png:Ruum-B148 Žestjakova Elina Konsultatsioonid-Esmaspäev(16.00-16.45)
+13.png:Ruum-B138 Poskotinova Olga Konsultatsioonid-
+Operatsiooni süsteemide alused:Ruum-A243 Shkarbanova Lury Konsultatsioonid-Teisipäev(16:00-17:35)
+Kehaline kasvatus:Ruum-Võimla A Maksõmiv Maksim Konsultatsioonid-Kolmapäev(16.00-16.45)
+Eesti keel2:Ruum-B234 Ojamäe Olesja Konsultatsioonid-Teisipäev(15.55 – 16.40)
+Eesti keel1:Ruum-B226 Peetrimägi Irina Konsultatsioonid-
+Ajalugu inimgeograafia ja inimese õpetus eesti keeles:Ruum-B238 Mari Speek Konsultatsioonid-
+Kunstiained:Ruum-232 Norkevitš Aleksandra Konsultatsioonid-
+Andmebaasisüsteemide alused (eesti keeles):Ruum-E10 Merkulova Irina Konsultatsioonid-
+Keel ja kirjandus:Ruum-B221 Mihhailova Ljudmila Konsultatsioonid-Kolmapäev(14.20-15.10)
+Matemaatika:Ruum-B133 Voronova Nadežda Konsultatsioonid-Esmaspäev(15.10- 15.55)Teisipäev(16.00- 16.45)
+Suhtlemine ja klienditeenindus:Ruum-B003 Schumann Sirje Konsultatsioonid-
